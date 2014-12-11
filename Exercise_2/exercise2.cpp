@@ -1,9 +1,9 @@
 #include <iostream>
 
 int main() {
-	int		cale;					// wprowadzamy cale
+	int	cale;					// wprowadzamy cale
 	double	centymetry;			// wynik w centymetrach
-	double 	przelicznik = 2.54;		// przelicznik: stopy na metry
+	double 	przelicznik = 2.54;		// przelicznik: cale na centymetry
 
 	std::cout << "Podaj wielosc w calach: ";
 	std::cin >> cale;				// przyjecie danych w calach
