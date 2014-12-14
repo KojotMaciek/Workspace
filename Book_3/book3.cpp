@@ -1,6 +1,6 @@
 #include <iostream>
 
-main() {
+int main() {
 	int i;
 	std::cout << "Podaj jakas liczbe: ";
 	std::cin >> i;
