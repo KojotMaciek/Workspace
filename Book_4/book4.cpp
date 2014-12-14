@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() //DLACZEGO TU JEST INT MAIN() A NIE SAMO MAIN()??
+		   //W SUMIE TO WE WSZYSTKICH MIALEM INT MAIN A WCZESNIEJ SIE POMYLILEM
+		   //I NIE NAPISALEM INT, W TAKIM RAZIE TO SIE POWINNO KOMPILOWAC?
 {
 	int wys, punkty_karne;			//definicja dwoch zmiennych typu int
 									//obie sa tego samego typu wiec
