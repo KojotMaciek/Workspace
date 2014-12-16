@@ -9,7 +9,7 @@ int main()
 
 	//int i;				//licznik obiegow petli
 	//for(i = 1; i <= ile; i = i + 1)
-	for(int i = 1; i <= ile; i = i + 1)
+	for(int i = 1; i <= ile; i = i + 1) //definicja obiekty i w instrukcji
 	{
 		std::cout << "Pasazer nr " << i << " prosze zapisac pasy! \n";
 	}
