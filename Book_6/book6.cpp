@@ -7,7 +7,7 @@ int main()
 		std::cout << "Napisz jakas litere: ";
 		std::cin >> litera;
 		std::cout << "\n Napisales: " << litera << " \n";
-	}while(litera != 'K');
+	}while(litera != 'K' && litera != 'k');
 
-	std::cout << "\n Skoro napisales K to nie ma imprezy... mozesz wracac... w klapkach...";
+	std::cout << "\n Skoro napisales " << litera << " to nie ma imprezy... mozesz wracac... w klapkach...";
 }
